@@ -32,6 +32,14 @@ Face swapping with a source (left) and a target image (middle). The result is on
 Different results obtained with the face of Tim Sweeney, founder and creator of Epic Games. Left: video game Alan Wake. Right: meme about Epic Games store.
 </sub>
 
+---
+
+<img alt="James Franco feat. Tim Sweeney" src="https://github.com/woctezuma/SimSwap-colab/wiki/gif/james_franco.gif" height="215"><img alt="Clint Eastwood feat. Tim Sweeney" src="https://github.com/woctezuma/SimSwap-colab/wiki/gif/clint_eastwood.gif" height="215">
+
+<sub>
+Different animated results obtained with the face of Tim Sweeney. Left: James Franco in Spider-Man 3 (2007). Right: Clint Eastwood in Gran Torino (2008).
+</sub>
+
 # References
 
 [1] Chen, Renwang, et al. *SimSwap: An Efficient Framework For High Fidelity Face Swapping*. In Proceedings of the 28th ACM International Conference on Multimedia. 2020.
