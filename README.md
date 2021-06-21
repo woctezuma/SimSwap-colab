@@ -40,6 +40,22 @@ Different results obtained with the face of Tim Sweeney, founder and creator of 
 Different animated results obtained with the face of Tim Sweeney. Left: James Franco in Spider-Man 3 (2007). Right: Clint Eastwood in Gran Torino (2008).
 </sub>
 
+---
+
+<img alt="Brent Rambo feat. Tim Sweeney" src="https://github.com/woctezuma/SimSwap-colab/wiki/gif/brent_rambo.gif" height="350"><img alt="Robert Redford feat. Tim Sweeney" src="https://github.com/woctezuma/SimSwap-colab/wiki/gif/robert_redford.gif" height="350">
+
+<sub>
+Different animated results obtained with the face of Tim Sweeney. Left: Brent Rambo. Right: Robert Redford in Jeremiah Johnson (1972).
+</sub>
+
+---
+
+<img alt="Taylor Armstrong feat. Tim Sweeney" src="https://github.com/woctezuma/SimSwap-colab/wiki/gif/taylor_armstrong.gif" height="275"><img alt="Jimes Tooper feat. Tim Sweeney" src="https://github.com/woctezuma/SimSwap-colab/wiki/gif/jimes_tooper.gif" height="275">
+
+<sub>
+Different results obtained with Tim Sweeney. Left: Taylor Armstrong & Kyle Richards in The Real Housewives of Beverly Hills (2010). Right: Jimes Tooper.
+</sub>
+
 # References
 
 [1] Chen, Renwang, et al. *SimSwap: An Efficient Framework For High Fidelity Face Swapping*. In Proceedings of the 28th ACM International Conference on Multimedia. 2020.
