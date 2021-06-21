@@ -13,6 +13,9 @@ The goal of this repository is to provide a Colab notebook to apply SimSwap [1] 
 -   Run [`SimSwap_videos.ipynb`][colab-notebook-simswap-videos] to apply SimSwap to GIF images/videos.
 [![Open In Colab][colab-badge]][colab-notebook-simswap-videos]
 
+-   Run [`gpen/SimSwap_videos.ipynb`][colab-notebook-simswap-videos-gpen] to apply SimSwap and GPEN to GIF images/videos.
+[![Open In Colab][colab-badge]][colab-notebook-simswap-videos-gpen]
+
 # Results
 
 <img alt="Image source" src="https://github.com/woctezuma/SimSwap-colab/wiki/img/source.jpg" width="250"> + <img alt="Image target" src="https://github.com/woctezuma/SimSwap-colab/wiki/img/destination.jpg" width="250"> = <img alt="Output of SimSwap" src="https://github.com/woctezuma/SimSwap-colab/wiki/img/cover-banner.jpg" width="250">
@@ -44,6 +47,7 @@ Different results obtained with the face of Tim Sweeney, founder and creator of 
 [colab-notebook-simswap-images]: <https://colab.research.google.com/github/woctezuma/SimSwap-colab/blob/main/SimSwap_images.ipynb>
 [colab-notebook-simswap-images-gpen]: <https://colab.research.google.com/github/woctezuma/SimSwap-colab/blob/gpen/SimSwap_images.ipynb>
 [colab-notebook-simswap-videos]: <https://colab.research.google.com/github/woctezuma/SimSwap-colab/blob/main/SimSwap_videos.ipynb>
+[colab-notebook-simswap-videos-gpen]: <https://colab.research.google.com/github/woctezuma/SimSwap-colab/blob/gpen/SimSwap_videos.ipynb>
 [colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
 
 [simswap-code]: <https://github.com/neuralchen/SimSwap>
