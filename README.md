@@ -1,13 +1,13 @@
 # SimSwap-Colab
 
-The goal of this repository is to provide a Colab notebook to apply SimSwap to images.
+The goal of this repository is to provide a Colab notebook to apply SimSwap [1] to images.
 
 # Usage
 
 -   Run [`SimSwap_images.ipynb`][colab-notebook-simswap-images] to apply SimSwap to images.
 [![Open In Colab][colab-badge]][colab-notebook-simswap-images]
 
--   Run [`gpen/SimSwap_images.ipynb`][colab-notebook-simswap-images-gpen] to apply SimSwap and GPEN to images.
+-   Run [`gpen/SimSwap_images.ipynb`][colab-notebook-simswap-images-gpen] to apply SimSwap and GPEN [2] to images.
 [![Open In Colab][colab-badge]][colab-notebook-simswap-images-gpen]
 
 -   Run [`SimSwap_videos.ipynb`][colab-notebook-simswap-videos] to apply SimSwap to GIF images/videos.
